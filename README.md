@@ -1,18 +1,17 @@
 # Simple-Bot-Discord
 
-untuk membuat bot discord ini anda harus memiliki akun discord terlebih dahulu. jika belum memiliki akun discord dan sebuah server dimana anda sebagai pengelola server.
-silahkan buat akun [discord](https://discord)
+To create this Discord bot, you must first have a Discord account. If you don't have a Discord account and a server where you are the server administrator, please create an account [Discord](https://discord).
 
 ---
 
-## Membuat bot
-setelah memiliki akun discord selanjutnya adalah membuat bot, kemudian setting akses pada menu OAuth2 
+## Creating a bot
+After creating a Discord account, the next step is to create a bot, then set up access in the OAuth2 menu
 - scope -> bot
-- text Permissions -> send messages
+- Text Permissions -> Send Messages
 
-setelah itu pada bagian generated url di bagian bawah bisa di copy dan di paste di web browser, nantinya akan muncul pilihan server yang dimana di server itu anda sebagai pengelola, pilihlah salah satu server untuk memasukkan si bot. 
+After that, copy the generated URL at the bottom and paste it into your web browser. A list of servers will appear where you are the administrator. Select one of the servers to add the bot.
 
-setlah bot berhasil di masukkan selanjutnya kembali ke menu bot tadi dan pada bagian token silahkan di copy (untuk memperbarui token anda bisa klik reset token)
+After the bot has been successfully added, return to the bot menu and copy the token (to update the token, you can click Reset Token).
 
 <img width="1899" height="966" alt="image" src="https://github.com/user-attachments/assets/e9909364-1a93-4592-b5de-5b66d87d98df" />
 
@@ -20,15 +19,15 @@ setlah bot berhasil di masukkan selanjutnya kembali ke menu bot tadi dan pada ba
 
 ## Install Requirements
 ``` pip install -r requirements.txt ```
-silahkan install requirents nya terlebih dahulu.
+Please install the requirements first.
 
 ---
 
-## Penjelasan kode
-kode ini menggunakan dokumentasi resmi discord py yang sedikit di rubah anda bisa cek dokumentasinya [di sini](https://pypi.org/project/discord.py/)
-kemudian untuk kode wikipedia bisa anda cek di dokumentasi resminya [di sini](https://pypi.org/project/discord.py/)
+## Code Explanation
+This code uses the official Discord Python documentation with minor modifications. You can check the documentation [here](https://pypi.org/project/discord.py/).
+For the Wikipedia code, you can check the official documentation [here](https://pypi.org/project/discord.py/).
 
-## hasil kode
+## Code output
 
 
 https://github.com/user-attachments/assets/e31fe767-978b-4356-89f9-975856d733d6
