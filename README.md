@@ -30,3 +30,7 @@ kemudian untuk kode wikipedia bisa anda cek di dokumentasi resminya [di sini](ht
 
 ## hasil kode
 
+
+https://github.com/user-attachments/assets/e31fe767-978b-4356-89f9-975856d733d6
+
+
